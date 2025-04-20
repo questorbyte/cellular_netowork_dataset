@@ -10,9 +10,9 @@ Our dataset was collected from students in our lab. We captured data as a PCAP f
 A collection of CSV files (2 per UE) containing relative time at which packets were sent (starting from 0, no real timestamp), anonymized source and destination IP address, Protocol, Length of the packet sent and Information (related to protocol if it’s a control packet otherwise “protected packet”)
 
 **Tools used**
-🔹 rvictl, a command-line utility officially supported by apple and accessible to all Apple Developers ([rvictl](https://developer.apple.com/documentation/network/recording-a-packet-trace)) to capture network traffic from Apple UEs
-🔹 PCAPdroid, an official app with 100k+ downloads with 3.9 rating ([PCAPDroid](https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture&hl=en_CA)) to capture network traffic from Android UEs
-🔹 WireShark to analyse the packet capture
+🔹 rvictl, a command-line utility officially supported by apple and accessible to all Apple Developers ([rvictl](https://developer.apple.com/documentation/network/recording-a-packet-trace)) to capture network traffic from Apple UEs <br>
+🔹 PCAPdroid, an official app with 100k+ downloads with 3.9 rating ([PCAPDroid](https://play.google.com/store/apps/details?id=com.emanuelef.remote_capture&hl=en_CA)) to capture network traffic from Android UEs <br>
+🔹 WireShark to analyse the packet capture <br>
 
 ---
 
@@ -20,18 +20,18 @@ A collection of CSV files (2 per UE) containing relative time at which packets w
 To the best of our knowledge, no dataset exists that provides real world UE data. The existing datasets either do not include mobility scenarios, are generated using automated tools (therefore they cannot mirror real-world temporal patterns, packet sizes, network failures etc), collected from a single network operator or are based on fewer UEs.
 
 Our dataset is diverse as it includes
-🔹 Multiple real devices (no simulators)
-🔹 Includes mobility scenarios
-🔹 Is generated manually by people (not bots or tools) 
-🔹 Gathered from 5 operators
-🔹 Gathered from 4G and 5G
-🔹 Learn real-world de-registration timers
+🔹 Multiple real devices (no simulators) <br>
+🔹 Includes mobility scenarios <br>
+🔹 Is generated manually by people (not bots or tools)  <br>
+🔹 Gathered from 5 operators <br>
+🔹 Gathered from 4G and 5G <br>
+🔹 Learn real-world de-registration timers <br>
  
 
 **Potential use case of this dataset:** 
-🔹 Get access to real world patterns of cellular traffic (temporal pattern, packet sizes, protocols)
-🔹 Use this data to generate artificial network traffic for attacks/defence
-🔹 Can use data plane traffic to predict control plane events. Control Plane traffic is very difficult to get. Therefore, people who need control plane traffic can use our dataset to correlate certain events in the user plane traffic to control plane and use it.
+🔹 Get access to real world patterns of cellular traffic (temporal pattern, packet sizes, protocols) <br>
+🔹 Use this data to generate artificial network traffic for attacks/defence <br>
+🔹 Can use data plane traffic to predict control plane events. Control Plane traffic is very difficult to get. Therefore, people who need control plane traffic can use our dataset to correlate certain events in the user plane traffic to control plane and use it. <br>
 
 ## 📂 Repository Structure
 
