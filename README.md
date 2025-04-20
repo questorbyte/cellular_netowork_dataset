@@ -1,6 +1,6 @@
-# Cellular Network Dataset
+# ProBait Dataset
 
-**Cellular Network Dataset** repository welcomes you! 🚀 We have endeavoured to opensource the dataset that was designed for our reserach project. This dataset can be an asset for researchers working on **Cellular Networks, Machine Learning and Cybersecurity**
+**ProBait Dataset** repository welcomes you! 🚀 We have endeavoured to opensource the dataset that was designed for our reserach project. This dataset can be an asset for researchers working on **Cellular Networks, Machine Learning and Cybersecurity**
 
 📌 The dataset consists of behaviour of **10 unique Apple and Samsung User Equipment hooked to 5 different 4G and 5G networks.**
 
