@@ -16,7 +16,7 @@ A collection of CSV files (2 per UE) containing relative time at which packets w
 
 ---
 
-## 🔔 Unique features of our Dataset?
+## 🔔 Features of our Dataset
 To the best of our knowledge, no dataset exists that provides real world UE data. The existing datasets either do not include mobility scenarios, are generated using automated tools (therefore they cannot mirror real-world temporal patterns, packet sizes, network failures etc), collected from a single network operator or are based on fewer UEs.
 
 Our dataset is diverse as it includes <br>
