@@ -7,7 +7,7 @@
 --- 
 
 ## Collection Methodology
-Our dataset was collected from students in our lab (Please refer to the Ethics Section below). We captured data as a PCAP file and then converted them to CSV file to strip off all Personally Identifiable Information. We have further processed the CSV files to anonymize the source and destination IP addresses. The data collected considers handover scenarios, i.e., when UEs were mobile (bus, car, subway).
+Our dataset is collected from 10 unique user equipment (UEs). We captured data as PCAP files and then converted them to CSV files to strip off all Personally Identifiable Information. We have further processed the CSV files to anonymize the source and destination IP addresses. The data collected considers handover scenarios, i.e., when UEs were mobile (bus, car, subway).
 
 A collection of CSV files (2 per UE) containing relative time at which packets were sent (starting from 0, no real timestamp), anonymized source and destination IP address, Protocol, size of the packet sent and Information (related to protocol if it is a control packet otherwise “protected packet”)
 
