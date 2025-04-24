@@ -2,7 +2,7 @@
 
 **ProBait Dataset** repository welcomes you! 🚀 We have endeavored to open-source the dataset that was designed for our research project. This dataset might be useful for researchers working on **Cellular Networks, Machine Learning and Cybersecurity**.
 
-📌 The dataset consists of behavior of **10 unique user equipment.**.
+📌 The dataset consists of behavior of **10 unique user equipment**.
 
 --- 
 
