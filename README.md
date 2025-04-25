@@ -1,6 +1,6 @@
 # ProBait Dataset
 
-**ProBait Dataset** repository welcomes you! 🚀 This repository contains a part of our dataset. We include data for 3 UEs out of 10. We will open-source the full version of our dataset upon acceptance of the paper. This dataset might be useful for researchers working on **Cellular Networks, Machine Learning and Cybersecurity**.
+**ProBait Dataset** repository welcomes you! 🚀 This repository contains the dataset that was developed for our research work. This dataset might be useful for researchers working on **Cellular Networks, Machine Learning and Cybersecurity**.
 
 📌 The dataset consists of behavior of **10 unique user equipment**.
 
